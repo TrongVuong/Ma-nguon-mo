@@ -1,0 +1,3 @@
+clear
+declare -a array
+
